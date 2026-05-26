@@ -18,9 +18,11 @@ Circuito:
 <img width="840" height="510" alt="imagen" src="https://github.com/user-attachments/assets/b7fb608d-7e7a-42e9-bb94-d16ee18abe5a" />
 
 Prototipo en Protoboard:
+
 <img width="483" height="269" alt="imagen" src="https://github.com/user-attachments/assets/2e999f76-1889-4a94-9036-bf5f84db1c1f" />
 
 Prototipo Final:
+
 <img width="200" height="264" alt="imagen" src="https://github.com/user-attachments/assets/38efd1c8-9e33-4e98-b2a8-ed65e38fa4b4" />
 
 Conclusion:
