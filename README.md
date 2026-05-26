@@ -14,6 +14,7 @@ Explicacion de componentes:
 <img width="1110" height="430" alt="imagen" src="https://github.com/user-attachments/assets/30113d45-c8ab-416a-90a5-a5327f909a9a" />
 
 Circuito:
+
 <img width="840" height="510" alt="imagen" src="https://github.com/user-attachments/assets/b7fb608d-7e7a-42e9-bb94-d16ee18abe5a" />
 
 Prototipo en Protoboard:
